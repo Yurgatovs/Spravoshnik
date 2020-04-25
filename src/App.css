@@ -1,0 +1,19 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+
+.title{
+margin-bottom: 1%;
+color:white;
+text-align: center;
+background-color: rgb(171, 176, 240);
+}
+
+
+.menu{
+width: 25%;
+ display: inline-table;
+}
+
+.content{
+  width: 50%;
+  display: inline-table;
+}
